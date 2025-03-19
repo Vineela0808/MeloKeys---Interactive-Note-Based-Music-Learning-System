@@ -27,13 +27,13 @@ Users interact with push-button keys, each mapped to a specific musical note (C,
 - **LCD Screen:** Displays **real-time feedback** on played notes, recording status, and playback sequences.
 - **Speaker Output:** Produces sound for both real-time and recorded notes.
 ## Working Pattern
-** Upon switching on, the system acts like a normal keyboard allowing users to play with 
+- ** Upon switching on, the system acts like a normal keyboard allowing users to play with 
 each key lighting up. 
-** A record button, upon selecting, starts recording the following notes played using the 
+- ** A record button, upon selecting, starts recording the following notes played using the 
 keys along with the length of time of each note approximating it to a 
 whole/half/quarter/semi-quarter note. 
-** The recording stops when the record button is selected again
-** Upon selecting the play button, the recorded sequence is played with each key of the 
+- ** The recording stops when the record button is selected again
+- ** Upon selecting the play button, the recorded sequence is played with each key of the 
 note lighting up and displaying the corresponding note using the 7-segment display. 
 
 
